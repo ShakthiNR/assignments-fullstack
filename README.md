@@ -101,4 +101,6 @@ Create a .env file and add your Gemini API key:
 ```bash
     VITE_BACKEND_URL=http://localhost:3001
 ```
+## Reference
 
+## Sample output
