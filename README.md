@@ -105,3 +105,8 @@ Create a .env file and add your Gemini API key:
 <img width="1226" alt="Reference" src="https://github.com/user-attachments/assets/7eb49f8c-8933-4225-a46e-91b55407ba5a" />
 
 ## Sample output
+
+https://github.com/user-attachments/assets/178e6116-2c27-42db-b8f5-4dde2c2a0b70
+
+
+
